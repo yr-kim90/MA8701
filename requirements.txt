@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+pandas
+sklearn
+git+https://github.com/yngvem/group-lasso.git 
+seaborn
